@@ -45,7 +45,7 @@ export default function Home() {
         <header className="hero">
           <div className="hero-content">
             <div className="logo-container">
-              <img src="/scriptworx-logo-horizontal.jpg" alt="ScriptwoRx Logo" className="logo" />
+              <img src="public/scriptworx-logo-horizontal.jpg" alt="ScriptwoRx Logo" className="logo" />
             </div>
             
             <h1 className="main-heading">Electronic Prescribing Software for Medical Specialists</h1>
